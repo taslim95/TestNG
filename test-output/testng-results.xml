@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-28T20:24:44 IST" name="Default suite" finished-at="2024-10-28T20:24:44 IST" duration-ms="85">
+    <groups>
+    </groups>
+    <test started-at="2024-10-28T20:24:44 IST" name="Default test" finished-at="2024-10-28T20:24:44 IST" duration-ms="85">
+      <class name="Demo.SecondTestCase">
+        <test-method signature="TestMethod_1()[pri:0, instance:Demo.SecondTestCase@2d52216b]" started-at="2024-10-28T20:24:44 IST" name="TestMethod_1" finished-at="2024-10-28T20:24:44 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod_1 -->
+        <test-method signature="TestMethod_2()[pri:0, instance:Demo.SecondTestCase@2d52216b]" started-at="2024-10-28T20:24:44 IST" name="TestMethod_2" finished-at="2024-10-28T20:24:44 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod_2 -->
+        <test-method signature="TestMethod_3()[pri:0, instance:Demo.SecondTestCase@2d52216b]" started-at="2024-10-28T20:24:44 IST" name="TestMethod_3" finished-at="2024-10-28T20:24:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod_3 -->
+      </class> <!-- Demo.SecondTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
